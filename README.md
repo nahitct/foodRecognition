@@ -1,1 +1,2 @@
 # foodRecognition
+My graduation project aimed at enabling restaurants to operate without cashiers by implementing a food recognition system that calculates the total cost of the meal. This system allows self-service restaurants to carry out transactions autonomously.
